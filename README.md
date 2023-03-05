@@ -1,5 +1,6 @@
 
-# Importing the required liabraries
+
+Required liabraries
 1) import os
 2) import tkinter as tk
 3) from pyqrcode import QRCode
